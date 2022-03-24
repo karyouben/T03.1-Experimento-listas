@@ -70,8 +70,7 @@ public class ExperimentoListas {
 		//Muestra ambas listas.
 		
 //		sublista.clear();
-//      Set<Estudiante> union = new HashSet<Estudiante>(s1);
-//		union.addAll(s2);
+
 
 	}
 
